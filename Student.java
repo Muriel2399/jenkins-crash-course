@@ -1,6 +1,6 @@
 
 public class Student {
 
-  public sayHello(){
+  public void sayHello(){
     System.out.println("Hi student");
 }
